@@ -15,7 +15,7 @@ Download or clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/hangman-game.git  
+git clone https://github.com/hangman.git  
 cd hangman-game  
 Run the script:
 bash
